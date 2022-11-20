@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: 
 
 sitemap: https://momciloculic.github.io/CarSaloon/sitemap.xml
